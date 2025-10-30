@@ -1,9 +1,9 @@
 // commenting something here
-<<<<<<< HEAD
+// <<<<<<< HEAD
 // editing here again
-=======
+// =======
 //editing online
->>>>>>> e7b2cbaadb5ecbc2bb3d5ec43eccd96264b6cfc6
+// >>>>>>> e7b2cbaadb5ecbc2bb3d5ec43eccd96264b6cfc6
 #include<iostream>
 using namespace std;
 // int power(int a, int b){
